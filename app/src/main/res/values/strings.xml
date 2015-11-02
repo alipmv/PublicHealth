@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">سامانه سلامت عمومی</string>
+    <string name="title_activity_main">سامانه سلامت عمومی شهرداری تبریز</string>
+    <string name="title_activity_equipment_viewer">مشخصات دستگاه</string>
+    <string name="action_settings">Settings</string>
+    <string name="halter_description">هالتر یک دستگاه بسیار خوشگل و مناسب برای افراد مصدوم از ناحیه دیسک کمر می باشد.</string>
+    <string name="halter_qrcode">9780735711020</string>
+    <string name="barfix_description">به فرزندان خود بارفیکس و شنا بیاموزید</string>
+    <string name="barfix_qrcode">9780735778020</string>
+    <string name="equipment_image_here">Equipment Image</string>
+    <string name="code_not_found">کد قابل قبول نیست. دوباره امتحان کنید.</string>
+    <string name="scan_cancelled_by_user">لغو عملیات!</string>
+</resources>
